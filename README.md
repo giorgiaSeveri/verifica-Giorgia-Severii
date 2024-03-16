@@ -1,1 +1,2 @@
-# verifica-Giorgia-Severii-ciao-verifica
+# verifica-Giorgia-Severii
+-ciao-verifica
